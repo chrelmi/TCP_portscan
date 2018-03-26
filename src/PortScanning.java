@@ -7,7 +7,7 @@
 
 /**
  *
- * @author Stavri Mele
+ * @author Christian
  */
 public class PortScanning {
 
