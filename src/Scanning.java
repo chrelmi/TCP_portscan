@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Stavri Mele
+ * @author Christian
  */
 public class Scanning {
     Socket connection;
